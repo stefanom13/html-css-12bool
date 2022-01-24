@@ -117,3 +117,30 @@
 .col-offset-11 {
   margin-left: calc((100% / 12) * 11);
 }
+
+/* justify-content  */
+.justify-center {
+  justify-content: center;
+}
+
+.justify-end {
+  justify-content: flex-end;
+}
+
+.justify-around {
+  justify-content: space-around;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+/* align-contents  */
+
+.align-center {
+  align-self: center;
+}
+
+.align-end {
+  align-self: flex-end;
+}
