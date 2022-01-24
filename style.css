@@ -11,4 +11,23 @@
   padding: 10px 15px;
   border: 1px solid white;
   color: aliceblue;
+  text-align: center;
+}
+
+.debug [class*="green"] {
+  background-color: #18c169;
+  padding: 10px 15px;
+  color: aliceblue;
+  text-align: center;
+}
+
+/* generals  */
+
+.section-first {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.section-first [class*="col"] {
+  padding: 20px 25px;
 }
