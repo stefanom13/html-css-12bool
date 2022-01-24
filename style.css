@@ -8,6 +8,10 @@ h2 {
   margin: 5px 5px;
 }
 
+h3 {
+  margin: 5px 5px;
+}
+
 /* debug  */
 
 .debug [class*="col"] {
