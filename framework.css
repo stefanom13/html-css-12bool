@@ -144,3 +144,12 @@
 .align-end {
   align-self: flex-end;
 }
+
+/* height col  */
+
+.height-double {
+  height: 85px;
+}
+.min-height {
+  height: 42px;
+}
